@@ -1,16 +1,9 @@
-- 👋 Hi, I’m @NBookApp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m NBook - Veículos & Imóveis
+We are a digital platform for hosting and disseminating ads in the vehicles and real estate categories.
+I'm here to publicize the NBOOK (NBK) token/critocurrency.
 
------ Decoded Ver --------------- 
-Arg [0]: name_ (string): NBOOK 
-Arg [1]: symbol_ (string): NBK 
-Arg [2]: initialBalance_ (uint256): 1000000000000000000000000000 
-Arg [3]: feeReceiver_ (endereço): 0x332de880430383f9a57d61c2d7926b52cbecbb36
-
-<!---
-NBookApp/NBookApp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+----- Source code --------------- 
+Name: NBOOK 
+Symbol: NBK 
+Total supply: 1.000.000.000 tokens 
+Adress cripto: 0x2b2008ce23F532a1C9994826B7c25Fd784d15126
